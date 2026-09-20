@@ -5,4 +5,16 @@ venv/
 .env
 .env.*
 *.log
+node_modules/
+npm-debug.log*
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+data/
+dist/
+coverage/
+.vite/
+*.tsbuildinfo
+.DS_Store
 .vscode/
